@@ -1,7 +1,7 @@
 /**
  * start : 21:35
  * end : 21:47
- * 레벨 1
+ * 레벨 1 https://school.programmers.co.kr/learn/courses/30/lessons/178871
  * -- 결과 : 일부 시간초과
  */
 function solution1(players, callings) {

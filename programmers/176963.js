@@ -1,5 +1,5 @@
 /**
- * 레벨 1
+ * 레벨 1 https://school.programmers.co.kr/learn/courses/30/lessons/176963
  */
 const name = ["may", "kein", "kain", "radi"];
 const yearning = [5, 10, 1, 3];
